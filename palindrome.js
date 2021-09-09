@@ -16,4 +16,4 @@ const palidndrome = str => {
   )
 }
 
-palidndrome("Mcrea")
+palidndrome("Kayak") 
